@@ -1,0 +1,4 @@
+- Create a project using Webpack
+- Install Babel
+- Reorganize the files
+- Testing
